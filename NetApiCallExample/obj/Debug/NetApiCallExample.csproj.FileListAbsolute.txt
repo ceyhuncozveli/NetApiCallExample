@@ -1,0 +1,15 @@
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\bin\Debug\NetApiCallExample.exe.config
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\bin\Debug\NetApiCallExample.exe
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\bin\Debug\NetApiCallExample.pdb
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\obj\Debug\NetApiCallExample.csprojAssemblyReference.cache
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\obj\Debug\NetApiCallExample.Form1.resources
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\obj\Debug\NetApiCallExample.Properties.Resources.resources
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\obj\Debug\NetApiCallExample.csproj.GenerateResource.cache
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\obj\Debug\NetApiCallExample.csproj.CoreCompileInputs.cache
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\obj\Debug\NetApiCallExample.csproj.CopyComplete
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\obj\Debug\NetApiCallExample.exe
+C:\Users\ceyhun.cozvelioglu\source\repos\NetApiCallExample\NetApiCallExample\obj\Debug\NetApiCallExample.pdb
