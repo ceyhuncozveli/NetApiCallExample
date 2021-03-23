@@ -10,13 +10,13 @@ using System.Windows.Forms;
 
 namespace NetApiCallExample
 {
-    public partial class Form1 : Form
+    public partial class frmMain : Form
     {
         private int maxNumber = 0;
         private int currentNumber = 0;
 
 
-        public Form1()
+        public frmMain()
         {
             InitializeComponent();
             ApiHelper.InitializeClient();
