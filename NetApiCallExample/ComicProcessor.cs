@@ -9,8 +9,6 @@ namespace NetApiCallExample
 {
     public class ComicProcessor
     {
-        //public int MaxComicNumber { get; set; }
-
         public static async Task<ComicModel> LoadComic(int comicNumber = 0)
         {
             string url = "";
@@ -29,12 +27,6 @@ namespace NetApiCallExample
                 if (response.IsSuccessStatusCode)
                 {
                     ComicModel comic = await response.Content.ReadAsAsync<ComicModel>();
-
-                    //if (comicNumber == 0)
-                    //{
-                    //    MaxComicNumber = comic.Num;
-                    //}
-
                     return comic;
                 }
                 else
